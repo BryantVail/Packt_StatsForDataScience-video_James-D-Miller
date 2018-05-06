@@ -173,6 +173,63 @@ Fitting:
 
 },
 
+"Assessment":{
+    "value":
+        "evaluating model for performance",
+    "performanceAs":[
+        "models growth of learning",
+        "model's ability to improve with learning",
+        "accuracy of results",
+    ],
+
+}, 
+
+"Cross-validation":{
+    "value":
+        "method for assessing data science process performance",
+    "usedWith":[
+        "predictive modeling to estimate accuracy",
+    ],
+    "usedTo":[
+        "check how a model will potentially generalize",
+        "identify dataset as validation dataset on which training is running",
+    ],
+    "objective":
+        "ensure that problems such as overfitting are controlled"
+},
+
+"neural networks":{
+    "aka":[
+        "Artificial Neural Networks (ANNS)",
+    ],
+    "Objective":
+        "solve problems as human brain",
+    "notes":[
+        "concept of software encapsulation",
+    ]
+    
+    "contain some form of learning rule":
+        "modifies the weights of the connections",
+},
+
+"boosting":{
+    "value":
+        "process for improving accuracy of weak learning data science process",
+    "notes":[
+        "aimed at reducing bias & variance",
+        "repeatedly running through the data science process",
+    ],
+    
+    "bias":{
+        "value":
+            "level of favoritism present in data collection process; that would result in uneven, disingenuous results",
+        "notes":[
+            "can result in a various number of ways"
+        ]
+    },//end bias
+        
+}, 
+
 
 
 
