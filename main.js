@@ -250,12 +250,61 @@ Fitting:
     ]
 },
 
+"outlier":{
+    "meanings":[
+        "data point that is way out of keeping with the others",
+        "piece of data that doesn't fit",
+        "very high || very low, value",
+        "unusual observations within the data",
+        "point that is distant from all others",
+    ],
+}, 
 
+"predictive modeling":{
+    "value":
+        "the development of statistical models && || data science processes to predict future events",
+    
+},
 
+"confidence interval":{
+    "value":
+        "range of values that data scientist will specify around an estimate",
 
+    "notes":[
+        "indicate margin of error, combined with probability value",
+        "good estimates of unknown population parameter",
+    ],
+},
 
+"Writing":{
+    "value":
+        "essential skill for data scientists to succeed; communicate with written word",
 
-            
+}, 
+
+"big data":{
+    large assemblage of:
+        data,
+        datasets that are so large:
+            traditional data processing apps are inadequate
+        data about every aspect of our lives
+
+    "3 Vs":{
+        "meanings":[
+            "volume",
+            "velocity",
+            "variety",
+        ],
+        "value":
+            "make up dimensionality of big data",
+        "notes":[
+            "created by Doug Laney",
+
+        ]
+    }//end 3 Vs
+},//end big data
+
+     
 
 
 
