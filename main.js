@@ -149,7 +149,31 @@ Fitting:
         "make something complex appear simple",
         "used in almost every stgep in the data science process",
     ]
-}
+},
+
+"D3":{
+    "notes":[
+        "designed with the intention of visualizing data using today's web standards",
+        "combines visualization & interaction techniques"
+    ],
+    "value":
+        "library used to display data; accessible through open web standards: SVG, Canvas, standard HTML",
+    
+},
+
+"regularization":{
+    "usedFor":[
+        "improving results generated from statistical model"
+    ],
+    "notes":
+        "this is a tuning parameter",
+        
+    "value":
+        "avoiding or eliminating an \"ill-posed\" problem",
+
+},
+
+
 
 
 
