@@ -219,7 +219,7 @@ Fitting:
         "aimed at reducing bias & variance",
         "repeatedly running through the data science process",
     ],
-    
+
     "bias":{
         "value":
             "level of favoritism present in data collection process; that would result in uneven, disingenuous results",
@@ -229,6 +229,26 @@ Fitting:
     },//end bias
         
 }, 
+
+"lift":{
+    "value":
+        "compares frequency of an observed pattern within recordset; how frequently its expected that the same pattern will occur.",
+
+    "notes":[
+        "low lift: a good probability that a pattern will be observed with relative frequency",
+        "larger lift: more likely that the pattern is real",
+    ]
+    
+}, 
+
+"mode":{
+    "value":
+        "most often occurring value.",
+
+    "notes":[
+        "not calculated but determined manually or through processing of data",
+    ]
+},
 
 
 
