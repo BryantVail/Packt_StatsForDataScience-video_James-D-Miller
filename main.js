@@ -1,7 +1,15 @@
 //video 2-1_DevelopersApproachToDataCleaning
 
 /*
+In this video, we will be using R to detect and diagnose common data issues.
 
+Look at common data issues
+Look at conceptual data issue
+
+this video:
+    the basics of data cleaning,
+    resolving common data issues,
+    cleaning techniques
 
 
      
